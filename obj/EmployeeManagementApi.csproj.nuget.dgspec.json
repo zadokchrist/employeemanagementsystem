@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\working directory\\EmployeeManagementApi\\EmployeeManagementApi.csproj": {}
+    "D:\\working directory\\employeemanagement system\\EmployeeManagementApi.csproj": {}
   },
   "projects": {
-    "D:\\working directory\\EmployeeManagementApi\\EmployeeManagementApi.csproj": {
+    "D:\\working directory\\employeemanagement system\\EmployeeManagementApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\working directory\\EmployeeManagementApi\\EmployeeManagementApi.csproj",
+        "projectUniqueName": "D:\\working directory\\employeemanagement system\\EmployeeManagementApi.csproj",
         "projectName": "EmployeeManagementApi",
-        "projectPath": "D:\\working directory\\EmployeeManagementApi\\EmployeeManagementApi.csproj",
+        "projectPath": "D:\\working directory\\employeemanagement system\\EmployeeManagementApi.csproj",
         "packagesPath": "C:\\Users\\ngobi\\.nuget\\packages\\",
-        "outputPath": "D:\\working directory\\EmployeeManagementApi\\obj\\",
+        "outputPath": "D:\\working directory\\employeemanagement system\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ngobi\\AppData\\Roaming\\NuGet\\NuGet.Config",
